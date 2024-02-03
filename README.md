@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sagid Anowar</h1>
 <h3 align="center">A passionate full-stack developer from New York City</h3>
 
-<img align="right" alt="Coding" width="400" src="https://exchange.art/single/4fSUy1ar4sFWNndLrHDFshbjrSNxNtYno7tuisY4eMTk">
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagidanowar&label=Profile%20views&color=0e75b6&style=flat" alt="sagidanowar" /> </p>
 
